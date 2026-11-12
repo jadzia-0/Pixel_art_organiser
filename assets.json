@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "tree",
+        "category": "nature",
+        "size": "16x16",
+        "file_path": "assets/tree.png"
+    },
+    {
+        "id": 1,
+        "name": "hero",
+        "category": "character",
+        "size": "16x16",
+        "file_path": "assets/hero.png"
+    },
+    {
+        "id": 2,
+        "name": "tree",
+        "category": "nature",
+        "size": "16x16",
+        "file_path": "assets/tree.png"
+    },
+    {
+        "id": 3,
+        "name": "potion",
+        "category": "item",
+        "size": "16x16",
+        "file_path": "assets/potion.png"
+    },
+    {
+        "id": 4,
+        "name": "bookshelf",
+        "category": "furniture",
+        "size": "32x32",
+        "file_path": "assets/bookshelf.png"
+    },
+    {
+        "id": 5,
+        "name": "grass_block",
+        "category": "nature",
+        "size": "32x32",
+        "file_path": "assets/grass_block.png"
+    },
+    {
+        "id": 6,
+        "name": "rock",
+        "category": "nature",
+        "size": "32x32",
+        "file_path": "assets/dirt_block.png"
+    }
+]
